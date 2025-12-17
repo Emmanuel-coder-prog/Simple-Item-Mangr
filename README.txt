@@ -1,4 +1,4 @@
-ITEM MANAGER - SIMPLE VERSION
+ITEM MANAGER 
 
 
 REQUIREMENTS MET:
@@ -41,4 +41,5 @@ HOW TO USE:
 2. Click "Add" or press Enter
 3. Click × to delete items
 4. Click "Toggle Theme" to switch modes
+
 
